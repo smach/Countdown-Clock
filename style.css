@@ -21,6 +21,17 @@ body{
   color:white;
 }
 
+.span-headline{
+  padding:10px 0px;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 3em;
+  text-transform:uppercase;
+  text-align:center;
+  letter-spacing:.2em;
+  text-shadow: 0 2px 0 rgba(0, 0, 0, 0.1);
+  color:white;
+}
+
 span{
   font-family: 'PT Sans', sans-serif;
   text-transform:uppercase;
